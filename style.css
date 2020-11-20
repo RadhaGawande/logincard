@@ -41,6 +41,8 @@ h2{
     margin:0 auto;
     padding: 0 10px;
     display: inline; 
+    outline-style: auto;
+    outline-color:gainsboro;
     box-sizing: border-box;    
 }
 .inputbox2{
@@ -49,6 +51,8 @@ h2{
     display: block;
     margin: 0 auto;
     padding: 0 10px;
+    outline-style: auto;
+    outline-color:gainsboro;
     box-sizing: border-box;
 }
 ::placeholder{
